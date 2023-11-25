@@ -1,0 +1,40 @@
+body {
+  background: blanchedalmond;
+  margin: 0;
+  padding: 0;
+}
+
+.dificulties {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  bottom: 5rem;
+}
+
+button {
+  padding: 1em;
+  font-weight: bold;
+}
+
+.easy {
+  background: greenyellow;
+}
+.normal {
+  background: yellow;
+}
+.hard {
+  background: red;
+}
+.impossible {
+  background: linear-gradient(
+    to left,
+    violet,
+    indigo,
+    blue,
+    green,
+    yellow,
+    orange,
+    red
+  );
+}
