@@ -117,7 +117,7 @@ class Explosion {
     this.frame = 0;
     this.sound = new Audio();
     this.sound.src =
-      "https://github.com/Florin12er/javascript-game-5/blob/main/images/images_Fire%20impact%201.wav";
+      "/home/sebastian/javascript-game-5/images/images_Fire impact 1.wav";
     this.timeSinceLastFrame = 0;
     this.frameInterval = 200;
     this.markedForDeletion = false;

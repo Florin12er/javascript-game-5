@@ -40,16 +40,7 @@ cavas {
 }
 .canvas1 {
   position: relative;
-  bottom: 55rem;
-}
-
-@media screen and (min-width: 1440px) {
-  .canvas1 {
-    bottom: 80rem;
-  }
-  .dificulties {
-    left: 65rem;
-  }
+  bottom: 56rem;
 }
 
 .normal {
