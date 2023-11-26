@@ -42,6 +42,16 @@ cavas {
   position: relative;
   bottom: 55rem;
 }
+
+@media screen and (min-width: 1440px) {
+  .canvas1 {
+    bottom: 80rem;
+  }
+  .dificulties {
+    left: 65rem;
+  }
+}
+
 .normal {
   background: yellow;
 }
@@ -64,6 +74,6 @@ cavas {
   );
 }
 
-#collisitionCanvas {
+#collisionCanvas {
   opacity: 0;
 }

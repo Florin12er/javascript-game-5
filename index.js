@@ -12,7 +12,7 @@ canvas.height = window.innerHeight;
 const impossible = document.querySelector(".impossible");
 const hell = document.querySelector(".hell");
 
-const colisionCanvas = document.getElementById("collisitionCanvas");
+const colisionCanvas = document.getElementById("collisionCanvas");
 const colisionCtx = colisionCanvas.getContext("2d");
 colisionCanvas.width = window.innerWidth;
 colisionCanvas.height = window.innerHeight;
