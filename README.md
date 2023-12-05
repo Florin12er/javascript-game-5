@@ -1,2 +1,2 @@
 # javascript-game-5
-my fifth javascript game
+this game is all about killing as many ravens as you can. in the hardest difficulty you can.
